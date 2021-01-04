@@ -1,0 +1,26 @@
+NOTES 1-4
+
+yay for command line and git
+command line is computer's secret menu
+--> access thru terminal
+
+pwd --> gives location (print working directory)
+ls --> list shit
+cd name --> go to name location in current directory
+rm name --> remove name
+rmdir name --> remove directory
+touch name --> create name
+mkdir name --> make new folder
+mv source destination --> move from source to destination
+cp source destination --> copy from source to destination
+
+GIT yo
+--version control system
+push/pull/commit/merge etc yayyy
+
+working in
+C:/Users/thadm/weblab-test
+-git init --> start repo in folder
+-git status --> see status, untracked files, commits, etc
+-git add name --> start tracking files (git add . to add everything)
+-git commit -m "message" --> add files to commit
