@@ -24,3 +24,4 @@ C:/Users/thadm/weblab-test
 -git status --> see status, untracked files, commits, etc
 -git add name --> start tracking files (git add . to add everything)
 -git commit -m "message" --> add files to commit
+-git push --> push stuff to git server
