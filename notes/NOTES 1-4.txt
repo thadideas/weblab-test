@@ -1,5 +1,5 @@
 NOTES 1-4
-
+---------------------
 yay for command line and git
 command line is computer's secret menu
 --> access thru terminal
@@ -25,3 +25,5 @@ C:/Users/thadm/weblab-test
 -git add name --> start tracking files (git add . to add everything)
 -git commit -m "message" --> add files to commit
 -git push --> push stuff to git server
+-------------------------
+HTML + CSS yo
